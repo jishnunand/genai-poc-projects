@@ -1,3 +1,3 @@
-# langchain_crashcourse
+# GENAI-POC-PROJECTS
 
 
